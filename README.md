@@ -1,4 +1,4 @@
-## Digit-Classifier-GRADIO
+## CNNDigit-Classifier-GRADIO
 
 ### Application Description:
 CNN-Based Digit Classification on MNIST Dataset.
