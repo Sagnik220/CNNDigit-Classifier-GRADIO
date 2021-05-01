@@ -1,5 +1,6 @@
 gradio
 setuptools
+tensorflow==2.5.0rc2
 keras
 numpy
 requests
