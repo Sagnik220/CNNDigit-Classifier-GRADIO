@@ -9,7 +9,7 @@ def classify_image(img):
     pred=np.argmax(prediction)
     return pred
 
-digit_model=load_model('D:\GitRepo\CNNDigit-Classifier-GRADIO\digit_recognition_model.h5')
+digit_model=load_model('digit_recognition_model.h5')
 
 label=gr.outputs.Label(num_top_classes=3)
 interface = gr.Interface(classify_image,inputs="sketchpad", outputs="label")
