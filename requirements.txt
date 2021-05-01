@@ -1,5 +1,5 @@
 gradio
 setuptools
-tensorflow==2.4.0
-numpy==1.17.0
+tensorflow==2.5.0
+numpy
 requests
