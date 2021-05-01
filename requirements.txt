@@ -1,5 +1,6 @@
-setuptools
+python==3.8
+setuptools==41.1.1
 gradio
-tensorflow
+tensorflow=2.0.0
 numpy
 requests
